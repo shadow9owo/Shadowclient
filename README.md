@@ -2,7 +2,7 @@
 <p>Shadowclient is a mod that makes pvp more fun</p>
 <img src="https://img.shields.io/badge/version-1.0-green" alt="Version"></img>
 <img width="128px" height="128px" src="logo.png" alt="Version"></img>
-<h1>Features:</h1><br>
+<h1>Features:</h1>
 <p>
 autoSprint - Sprints automaticly
 <br>
