@@ -4,11 +4,13 @@
 <img width="128px" height="128px" src="logo.png" alt="Version"></img>
 <h1>Features:</h1>
 <p>
-autoSprint - Sprints automaticly
+autoSprint - Sprints automaticly when you walk
 <br>
-Fullbright - makes everything a lot brighter (alt + f)
+(hypixel skyblock) Jacobs Farming event status check - checks if a farming event is ongoing (.isevenactive)
 <br>
-(hypixel skyblock) Jacobs Farming event status check - checks if a farming event is ongoing (alt+f9)
+hurtcam - toggles hurtcam on / off (default hurtcam on) alt+h
+<br>
+help - shows list of availible commands (.help)
 </p>
 <h1>links:</h1><br>
 <a href="http://shadowstudios.rf.gd/" style="color: blue;">our website</a><br>
