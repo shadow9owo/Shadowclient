@@ -13,7 +13,7 @@ hurtcam - toggles hurtcam on / off (default hurtcam on) alt+h
 help - shows list of availible commands (.help)
 </p><br>
 <h1>how to install</h1>
-drag over the shadowclient folder to the versions folder
+zip:drag over the shadowclient folder from the zip to the versions folder
 <h1>Screenshots</h1>
 <img src="screenshots/Capture.PNG"></img>
 <img src="screenshots/commands.png"></img>
