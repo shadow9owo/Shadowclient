@@ -14,6 +14,7 @@ help - shows list of availible commands (.help)
 </p><br>
 <h1>how to install</h1>
 zip:drag over the shadowclient folder from the zip to the versions folder
+installer:run program fill in the textboxes and click the install button
 <h1>Screenshots</h1>
 <img src="screenshots/Capture.PNG"></img>
 <img src="screenshots/commands.png"></img>
