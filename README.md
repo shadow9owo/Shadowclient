@@ -15,7 +15,7 @@ help - shows list of availible commands (.help)
 <h1>how to install</h1>
 drag over the shadowclient folder to the versions folder
 <h1>Screenshots</h1>
-<img src="Capture.PNG"></img>
+<img src="screenshots/Capture.PNG"></img>
 <h1>links:</h1>
 <a href="http://shadowstudios.rf.gd/" style="color: blue;">our website</a><br>
 <a href="https://shadowdevhere.itch.io/" style="color: blue;">our itch.io</a>
