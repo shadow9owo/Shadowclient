@@ -19,6 +19,7 @@ installer:run program fill in the textboxes and click the install button
 <h1>Screenshots</h1>
 <img src="screenshots/Capture.PNG"></img>
 <img src="screenshots/commands.png"></img>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/W7yDiEi9UzA" title="How to install Shadowclient (a1.1.2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h1>links:</h1>
 <a href="http://shadowstudios.rf.gd/" style="color: blue;">our website</a><br>
 <a href="https://shadowdevhere.itch.io/" style="color: blue;">our itch.io</a>
