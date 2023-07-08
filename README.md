@@ -22,6 +22,7 @@ installer:run program fill in the textboxes and click the install button
 <h1>info / notes:</h1>
 <p>
   this is a one person project as of 08/07/23
+  <br>
   also this project is in alpha as of 08/07/23
 </p>
 <h1>links:</h1>
