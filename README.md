@@ -24,6 +24,8 @@ installer:run program fill in the textboxes and click the install button
   this is a one person project as of 08/07/23
   <br>
   also this project is in alpha as of 08/07/23
+  <br>
+  season of jerry check dosent work 
 </p>
 <h1>links:</h1>
 <a href="http://shadowstudios.rf.gd/" style="color: blue;">our website</a><br>
