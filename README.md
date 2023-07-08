@@ -19,6 +19,11 @@ installer:run program fill in the textboxes and click the install button
 <h1>Screenshots</h1>
 <img src="screenshots/Capture.PNG"></img>
 <img src="screenshots/commands.png"></img>
+<h1>info / notes:</h1>
+<p>
+  this is a one person project as of 08/07/23
+  also this project is in alpha as of 08/07/23
+</p>
 <h1>links:</h1>
 <a href="http://shadowstudios.rf.gd/" style="color: blue;">our website</a><br>
 <a href="https://shadowdevhere.itch.io/" style="color: blue;">our itch.io</a>
