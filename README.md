@@ -1,6 +1,6 @@
 <h1 style="background: -webkit-linear-gradient(#eee, #333);  -webkit-background-clip: text;-webkit-text-fill-color: transparent;">Shadowclient</h1>
 <p>Shadowclient is a minecraft client that tries to makes pvp more fun</p>
-<img src="https://img.shields.io/badge/version-a1.1.4-green" alt="Version"></img>
+<img src="https://img.shields.io/badge/version-a1.1.5-green" alt="Version"></img>
 <img width="256px" height="256px" src="logo.png" alt="Version"></img>
 <h1>Features:</h1>
 <p>
@@ -25,7 +25,7 @@ installer:run program fill in the textboxes and click the install button
   <br>
   also this project is in alpha as of 08/07/23
   <br>
-  season of jerry check dosent work 
+  season of jerry isnt tested yet
 </p>
 <h1>links:</h1>
 <a href="http://shadowstudios.rf.gd/" style="color: blue;">our website</a><br>
