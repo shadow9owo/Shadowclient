@@ -6,7 +6,7 @@
 <p>
 autoSprint - Sprints automaticly when you walk
 <br>
-(hypixel skyblock) Jacobs Farming event status check - checks if a farming event is ongoing or season of jerry is ongoing (.isevenactive)
+(hypixel skyblock) Jacobs Farming event status check - checks if a farming event is ongoing or season of jerry is ongoing (/isevenactive)
 <br>
 hurtcam - toggles hurtcam on / off (default hurtcam on) alt+h
 <br>
