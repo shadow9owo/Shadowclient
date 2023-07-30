@@ -25,7 +25,7 @@ installer:run program fill in the textboxes and click the install button
 <p>
   this is a one person project as of 08/07/23
   <br>
-  also this project is in alpha as of 08/07/23
+  this project is in alpha as of 08/07/23
 </p>
 <h1>links:</h1>
 <a href="http://shadowstudios.rf.gd/" style="color: blue;">our website</a><br>
