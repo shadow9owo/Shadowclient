@@ -12,7 +12,7 @@ hurtcam - toggles hurtcam on / off (default hurtcam on) alt+h
 <br>
 clear shadows - transparent shadows > more visibility in dark caves for example
 <br>
-help - shows list of availible commands (.help)
+help - shows list of availible commands (/clienthelp)
 </p><br>
 <h1>how to install</h1>
 zip:drag over the shadowclient folder from the zip to the versions folder
