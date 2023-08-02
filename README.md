@@ -26,6 +26,10 @@ installer:run program fill in the textboxes and click the install button
   this is a one person project as of 08/07/23
   <br>
   this project is in alpha as of 08/07/23
+  <br>
+  src.zip is was deleted due to the current projects file size
+  <br>
+  contact me for the source code 02/08/2023
 </p>
 <h1>links:</h1>
 <a href="http://shadowstudios.rf.gd/" style="color: blue;">our website</a><br>
