@@ -29,7 +29,6 @@ installer:run program fill in the textboxes and click the install button
   
   this project is in alpha as of 08/07/23
   <br>
-  <br>
   <p>------------------------------------------------------------</p>
   <br>
   src.zip is was deleted due to the current projects file size
