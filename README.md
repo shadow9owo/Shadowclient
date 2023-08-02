@@ -26,7 +26,7 @@ installer:run program fill in the textboxes and click the install button
   this is a one person project as of 08/07/23
   <br>
   <p>------------------------------------------------------------</p>
-  <br>
+  
   this project is in alpha as of 08/07/23
   <br>
   <br>
