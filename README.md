@@ -26,9 +26,11 @@ installer:run program fill in the textboxes and click the install button
   this is a one person project as of 08/07/23
   <br>
   <p>------------------------------------------------------------</p>
+  <br>
   this project is in alpha as of 08/07/23
   <br>
   <p>------------------------------------------------------------</p>
+  <br>
   src.zip is was deleted due to the current projects file size
   <br>
   contact me for the source code 02/08/2023
