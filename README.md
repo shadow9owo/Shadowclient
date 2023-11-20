@@ -1,3 +1,5 @@
+#dosent work!!! and i wont fix it
+
 <h1 style="background: -webkit-linear-gradient(#eee, #333);  -webkit-background-clip: text;-webkit-text-fill-color: transparent;">Shadowclient</h1>
 <p>Shadowclient is a minecraft client that tries to makes pvp more fun</p>
 <img src="https://img.shields.io/badge/version-a1.2.1-green" alt="Version"></img>
