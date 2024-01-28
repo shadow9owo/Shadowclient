@@ -38,5 +38,5 @@ installer:run program fill in the textboxes and click the install button
   contact me for the source code 02/08/2023
 </p>
 <h1>links:</h1>
-<a href="http://shadowstudios.rf.gd/" style="color: blue;">our website</a><br>
-<a href="https://shadowdevhere.itch.io/" style="color: blue;">our itch.io</a>
+<a href="http://shadowstudios.rf.gd/" style="color: blue;">my website</a><br>
+<a href="https://shadowdevhere.itch.io/" style="color: blue;">my itch.io</a>
